@@ -1,6 +1,6 @@
 # CodePlex
 
-Codeplex is an online HTML, CSS, and JS editor that lets you write code on the go with the help of web application, that stores the last updates in the code.
+Codeplex is an online HTML, CSS, and JS editor that lets you write code on the go with the help of a web application, that stores the last updates in the code.
 
 The project is deployed at [https://joycodeplex.netlify.app/](https://joycodeplex.netlify.app/)
 
@@ -14,5 +14,5 @@ The project is made using the following:
 ## Preview
 <img src="https://github.com/Joychoudhury/Codeplex/blob/main/img/2023-04-25.png" >
 
-##
+
 <img src="https://github.com/Joychoudhury/Codeplex/blob/main/img/2023-04-25%20(1).png" >
